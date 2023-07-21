@@ -1,3 +1,11 @@
 hy we can learn about how to work programming and what is programming? 
 Programming may be found everywhere around us. Code facilitates common acts in our life, from ordering takeaway to streaming movies. Tech businesses are no longer recognised as simply software companies; instead, they deliver meals to our doors, assist us in locating a taxi, influence presidential election outcomes, and serve as personal trainers.
 Programming is the process of providing a set of instructions to machines that indicate how a programme should be executed. Programmers will spend their entire lives mastering a range of programming languages and tools in order to construct computer programmes efficiently.
+Many historians believe Ada Lovelace was the first published computer programmer in the mid-nineteenth century. She was a mathematician who translated Luigi Federico Menabrea's Analytical Engine papers.
+
+Ada had included her own lengthy comments in this translation, as well as a method for calculating Bernoulli numbers using the Analytical Engine.
+
+
+The Turing machine and the work of mathematician Alonzo Church were the first introductions of computer codes.
+
+Computers were invented in the 1920s, followed by the first programming languages. As machinery and technology advanced over the next century, so did the number of programming languages.
