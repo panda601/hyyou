@@ -1,1 +1,3 @@
 hy we can learn about how to work programming and what is programming? 
+Programming may be found everywhere around us. Code facilitates common acts in our life, from ordering takeaway to streaming movies. Tech businesses are no longer recognised as simply software companies; instead, they deliver meals to our doors, assist us in locating a taxi, influence presidential election outcomes, and serve as personal trainers.
+Programming is the process of providing a set of instructions to machines that indicate how a programme should be executed. Programmers will spend their entire lives mastering a range of programming languages and tools in order to construct computer programmes efficiently.
