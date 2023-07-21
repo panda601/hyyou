@@ -8,4 +8,4 @@ Ada had included her own lengthy comments in this translation, as well as a meth
 
 The Turing machine and the work of mathematician Alonzo Church were the first introductions of computer codes.
 
-Computers were invented in the 1920s, followed by the first programming languages. As machinery and technology advanced over the next century, so did the number of programming languages.
+Computers were invented in the 1920s, followed by the first programming languages. As machinery and technology advanced over the next century, so did the number of programming language.
